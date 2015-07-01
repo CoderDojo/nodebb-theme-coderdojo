@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-coderdojo",
+    "name": "CoderDojo Theme",
+    "description": "CoderDojo Theme for NodeBB",
+    "url": "https://github.com/CoderDojo/nodebb-theme-coderdojo",
+    "screenshot": "screenshot.png"
+}

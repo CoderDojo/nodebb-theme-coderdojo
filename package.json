@@ -1,0 +1,10 @@
+{
+  "name": "nodebb-theme-coderdojo",
+  "version": "1.0.0",
+  "description": "CoderDojo theme for NodeBB",
+  "main": "theme.less",
+  "keywords": [
+      
+  ],
+  "license": "MIT"
+}

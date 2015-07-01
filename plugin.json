@@ -1,0 +1,14 @@
+{
+	  "id": "nodebb-theme-coderdojo",
+	  "library": "./lib/theme.js",
+	  "hooks": [{
+			  "hook": "filter:widgets.getAreas", "method": "defineWidgetAreas", "callbacked": true
+		}],
+	  "scripts": [
+		    "lib/client.js"
+	  ],
+    "languages": "languages",
+    "staticDirs": {
+        "images": "static/images"
+    }
+}
